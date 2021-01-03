@@ -1,0 +1,8 @@
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+web/node_modules
+web/.env
