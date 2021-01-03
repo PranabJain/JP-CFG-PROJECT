@@ -1,0 +1,7 @@
+Process Definition Document – Received signoff. 
+Solution Design Document – Completed and submitted for client approval on 21-Aug-19
+Build & Test – Completed for all 22 steps.  Conducted 2 Play back sessions with Client team and received +Ve feedback.
+Solution Design Document – In Progress- targeted for review in week starting 11th November 
+Received revised  PDD on 18 October with some more details
+Process Definition Document –finalized and  signed of PDD on EOD 11th October 2019
+Build & Test – 1st playback of POC done on 11Sep, received positive feedback, next playback on 03 October 2019- received very good feedback and finalization of approach using SharePoint Custom Activity 

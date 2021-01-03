@@ -1,0 +1,82 @@
+
+
+
+
+Vivo energy
+
+Agenda
+Highlights
+Lowlights
+Milestones and Key status
+Key Risks and Actions
+Help needed
+Governance structure
+
+
+Highlights
+Use Case1 – Plant creation
+Process Definition Document – Received signoff. 
+Solution Design Document – Completed and submitted for client approval on 21-Aug-19
+Build & Test – Completed for all 22 steps.  Conducted 2 Play back sessions with Client team and received +Ve feedback.
+    Third play back session is planned on 30-Sep-19. 
+
+
+Highlights-contd
+CR-1 - Data validator and solution manager integration scope has been added to have an E2E automation for the Plan creation process. 
+Completed PDD and submitted to Client for sign-off on 09-Sep-19 
+SDD has been completed and submitted on 18-Sep-19
+New PM has been added to the UK team considering additional scope
+India visit is under planning from IBM UK and Vivo side
+Automated BOT will be taken to the wider audience at Vivo. Around 80 scenarios identified for automation pipeline
+
+
+Lowlights
+Use Case1 – Plant creation
+Scope creep – Total number of screens has doubled from initial estimate, now complete
+SDD client approval outstanding, Risk in last minute change to the solution
+Data validator scope has been added. In solution stage, it was assumed that this would be taken care by VIVO team and they would provide the cleansed data in the form of Input template 
+Received ITC validation change request on 11Sep19 with aggressive timeline
+
+Lowlights-contd
+Use Case2 – Site conversion
+Solution Design Document – Kept on hold due to finalizing the UC1 E2E process workflow that are to be automated
+
+
+
+Highlights
+Use Case1 – Fx rate Lookup and entry in E1
+Process Definition Document –finalized and  signed of PDD on EOD 11th October 2019
+Proposed solutions shared regarding ZONE interaction with SharePoint Custom Activity, finalized.
+BOT ID clarifications completed, finalization and credentials received
+PDD final  review and feedback shared on 18th October, based on which PDD was revised
+Solution Design Document – SDD and Solution Review done with Geo and Account team on 22 Oct 2019, Request for sign-off on 23 October 2019. Reminder sent on 25th October. Awaiting Sign Off.
+Build & Test – 1st playback of POC done on 11Sep, received positive feedback, next playback on 03 October 2019- received very good feedback and finalization of approach using SharePoint Custom Activity 
+Development and unit testing completed as per plan
+Testing with Bot Ids got delayed due to access issues. First round  of testing with Bot ids on 25 October. More rounds of testing planed and executed  till 30th October 
+UAT 2 rounds of testing with IT users  successfully done on 25th October.and 29th October. 3rd round of testing with Business Users successfully done  on 30th October with go ahead for production cutover on 01 November 2019
+Pre-Cutover activities on 31st October and  Production Move on 01 November done successfully. 
+Received appreciation from Client and Geo Team
+Hypercare : Monitoring In Progress till 11 November 2019
+CR:  Discussion on  in TAI_MonthlyUpdate process requirements revision and Enhancements to the TAI_UploadDailyUpdates process in progress
+
+
+Highlights contd
+Use Case2 – Standard Invoice entry Against Suspense Account
+Process Definition Document – During solutioning the initial Usecase was “Month end job completion notification and output storage in secured network drive for review by business users”, however this Usecase was changed to “Standard Invoice  Entry”  at a later point as alternate Usecase
+Received an initial recording of an alternate workflow on 13th September which the team went through and gave initial positive feedback on feasibility with comments that the end to end process needs some standardization of the process,  prior to taking up for RPA automation
+Received First draft PDD with minimum details on 09 October 2019, 
+Received revised  PDD on 18 October with some more details
+Initial feedback shared with  tentative UAT completion date by 13 December . 
+List of Clarifications on PDD shared on 05 November 2019 
+Process walkthrough done on 06th November.
+Revised PDD circulated on 08 November which will be sent for approval from Client
+
+Solution Design Document – In Progress- targeted for review in week starting 11th November 
+Build & Test – In Progress – target first playback on 15 November 2019
+CR: Not applicable
+
+
+Lowlights
+UC1 New user requirements and new suggestions on the solution still in progress which  will be taken up as enhancements to the solution in Phase II
+
+
